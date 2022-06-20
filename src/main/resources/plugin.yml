@@ -1,0 +1,4 @@
+name: HospitalTeleporter
+version: '${project.version}'
+main: com.preware.hospitalteleporter.Main
+api-version: 1.17
